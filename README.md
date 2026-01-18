@@ -1,6 +1,6 @@
 # i-Educar Relatórios
 
-Módulo de relatórios para o [i-Educar](https://github.com/portabilis/i-educar).
+Módulo de relatórios para o [i-Educar](https://github.com/uaefama/i-educar).
 
 ## Dependências
 
@@ -19,7 +19,7 @@ Para intermediar a conexão entre PHP e Java é utilizada a biblioteca [JasperSt
 Clone este repositório a partir da raiz do i-Educar:
 
 ```bash
-git clone git@github.com:portabilis/i-educar-reports-package.git packages/portabilis/i-educar-reports-package
+git clone git@github.com:uaefama/i-educar-reports-package.git packages/uaefama/i-educar-reports-package
 ```
 
 Ative o pacote via plug and play:
@@ -43,11 +43,4 @@ Publique os assets:
 php artisan vendor:publish --tag=reports-assets --ansi
 ```
 
-## Perguntas frequentes (FAQ)
-
-Algumas perguntas aparecem recorrentemente. Olhe primeiro por aqui:
-[FAQ](https://github.com/portabilis/i-educar-website/blob/master/docs/faq.md).
-
 ---
-
-Powered by [Portábilis](https://portabilis.com.br/).
